@@ -1,0 +1,3 @@
+inventory-service:
+  app:
+    message: This message is comming from config server deployment after 2nd release of inevtory service
